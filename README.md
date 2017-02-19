@@ -13,6 +13,11 @@ With [fisherman]
 fisher shinriyo/freeeman
 ```
 
+## Requirements
+
+`curl` for `GET/POST`.
+`jq` for parse JSON.
+
 ## Usage
 
 ```fish
